@@ -1,3 +1,6 @@
+![二维码](https://raw.githubusercontent.com/FakeLee/Shadowrocket_Rules/master/figure/GFWList.png?1)
+![二维码](https://raw.githubusercontent.com/FakeLee/Shadowrocket_Rules/master/figure/GFWList(ban_ad).png?1)
+
 ## 最完善的 iOS 翻墙规则
 
 ### 停止更新公告
